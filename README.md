@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **reddy1khushank@gmail.com**
 
-- 📄 Know about my details [https://drive.google.com/file/d/1mkR7N764dfCjRSc9bAUr-FM8BfYB1Xj6/view?usp=drive_link](https://drive.google.com/file/d/1mkR7N764dfCjRSc9bAUr-FM8BfYB1Xj6/view?usp=drive_link)
+- 📄 Know about my details [www.kushankbudida.me](www.kushankbudida.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
