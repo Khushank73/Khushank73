@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **reddy1khushank@gmail.com**
 
-- 📄 Know about my details [www.kushankbudida.me](www.kushankbudida.me)
+- 📄 Know about my details **kushankbudida.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
