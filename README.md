@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushank73&show_icons=true&locale=en" alt="khushank73" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushank73&" alt="khushank73" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khushank73&theme=dark&hide_border=true&border_radius=4.9" alt="GitHub Streak" /></a>
