@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushank73&label=Profile%20views&color=0e75b6&style=flat" alt="khushank73" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, NLP**
+- 🌱 I’m currently working **Web Development**
 
 - 📫 How to reach me **reddy1khushank@gmail.com**
 
